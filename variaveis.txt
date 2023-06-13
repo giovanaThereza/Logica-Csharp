@@ -17,7 +17,7 @@ class Program
        string nome = "Giovana Thereza";
        double valor = 10.50;
        bool status = true;
-       
+       char letra = 'A' 
        
        
        
