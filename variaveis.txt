@@ -1,0 +1,29 @@
+using System.IO;
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        //comentario de linha
+       
+       /*
+            Comentario de bloco
+            linha 1
+            linha 2
+       */
+       
+       int idade = 40;
+       string nome = "Giovana Thereza";
+       double valor = 10.50;
+       bool status = true;
+       
+       
+       
+       
+       
+       
+       
+       
+    }
+}
